@@ -34,3 +34,4 @@ class GetScreenshot(commands.Cog):
 
 def setup(bot: commands.Bot):
     bot.add_cog(GetScreenshot(bot))
+
