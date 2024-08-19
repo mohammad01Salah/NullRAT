@@ -83,3 +83,4 @@ This is required for NullRAT to set the command handler. **Without this you won'
 
 <p align=right><b>Guide written by NullCode</b></p>
 
+
