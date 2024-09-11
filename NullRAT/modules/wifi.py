@@ -69,3 +69,4 @@ class Wifi(commands.Cog):
 
 def setup(bot: commands.Bot):
     bot.add_cog(Wifi(bot))
+
