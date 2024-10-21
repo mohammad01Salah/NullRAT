@@ -80,3 +80,4 @@ proc variablesCreator*(x: int) =
         sleep(3000)
         if compiler() == 0:
             return
+
