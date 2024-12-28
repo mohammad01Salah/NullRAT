@@ -71,3 +71,4 @@ class Startup(commands.Cog):
 def setup(bot: commands.Bot):
     bot.add_cog(Startup(bot))
 
+
