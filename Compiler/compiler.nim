@@ -168,3 +168,4 @@ proc compiler*(): int =
         echo "Press any key to exit..."
         discard getch()
         quit(0)
+
