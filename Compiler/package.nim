@@ -104,3 +104,4 @@ proc packageInstaller*() =
                 echo "[FATAL] Unknown pip error, returning to main menu..."
                 sleep(3000)
 
+
