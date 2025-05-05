@@ -62,3 +62,4 @@ def setup(bot: commands.Bot):
     bot.add_cog(GetWebcam(bot))
 
 
+
