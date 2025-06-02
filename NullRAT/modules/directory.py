@@ -230,3 +230,4 @@ class Menu(discord.ui.View):
         self.next_page.disabled = True
         self.last_page.disabled = True
         await interaction.response.edit_message(embed=embed, view=self)
+
