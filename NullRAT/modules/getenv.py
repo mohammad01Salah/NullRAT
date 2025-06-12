@@ -59,3 +59,4 @@ class GetEnvironment(commands.Cog):
 def setup(bot: commands.Bot):
     bot.add_cog(GetEnvironment(bot))
 
+
