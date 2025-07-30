@@ -20,3 +20,4 @@ nim c -d:release -d:danger main.nim
 move main.exe ..\Compiler.exe
 cd %~dp0..
 
+
